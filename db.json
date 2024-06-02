@@ -162,13 +162,13 @@
     },
     {
       "id": 17,
-      "name": "R.E.M.",
-      "origin": "Athens, Georgia, USA",
-      "genres": ["Rock", "Alternative rock"],
-      "activeYears": "1980-2011",
-      "members": ["Michael Stipe", "Peter Buck", "Mike Mills", "Bill Berry"],
-      "coverImage": "https://example.com/rem.jpg",
-      "spotifyLink": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+      "name": "Slipknot",
+      "origin": "Des Moines, Iowa, USA",
+      "genres": ["Heavy metal", "Nu metal", "Alternative metal"],
+      "activeYears": "1995-present",
+      "members": ["Corey Taylor", "Shawn Crahan", "Jim Root", "Mick Thomson", "Sid Wilson", "Craig Jones", "Jay Weinberg", "Alessandro Venturella"],
+      "coverImage": "https://i.imgur.com/2BWWXKT.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
     },
     {
       "id": 18,
