@@ -1,0 +1,204 @@
+{
+  "bands": [
+    {
+      "id": 1,
+      "name": "Led Zeppelin",
+      "origin": "London, England",
+      "genres": ["Hard rock", "Blues rock", "Folk rock"],
+      "activeYears": "1968-1980",
+      "members": ["Robert Plant", "Jimmy Page", "John Paul Jones", "John Bonham"],
+      "coverImage": "https://example.com/led_zeppelin.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+    },
+    {
+      "id": 2,
+      "name": "Pink Floyd",
+      "origin": "London, England",
+      "genres": ["Progressive rock", "Psychedelic rock", "Art rock"],
+      "activeYears": "1965-1995, 2005, 2012-2014",
+      "members": ["Roger Waters", "David Gilmour", "Nick Mason", "Richard Wright", "Syd Barrett"],
+      "coverImage": "https://example.com/pink_floyd.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    {
+      "id": 3,
+      "name": "The Rolling Stones",
+      "origin": "London, England",
+      "genres": ["Rock", "Blues", "Rock and roll"],
+      "activeYears": "1962-present",
+      "members": ["Mick Jagger", "Keith Richards", "Charlie Watts", "Ronnie Wood"],
+      "coverImage": "https://example.com/the_rolling_stones.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+    },
+    {
+      "id": 4,
+      "name": "Queen",
+      "origin": "London, England",
+      "genres": ["Rock", "Hard rock", "Glam rock"],
+      "activeYears": "1970-present",
+      "members": ["Freddie Mercury", "Brian May", "Roger Taylor", "John Deacon"],
+      "coverImage": "https://example.com/queen.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    {
+      "id": 5,
+      "name": "AC/DC",
+      "origin": "Sydney, Australia",
+      "genres": ["Hard rock", "Blues rock", "Rock and roll"],
+      "activeYears": "1973-present",
+      "members": ["Angus Young", "Malcolm Young", "Brian Johnson", "Phil Rudd", "Cliff Williams", "Bon Scott"],
+      "coverImage": "https://example.com/acdc.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+    },
+    {
+      "id": 6,
+      "name": "Nirvana",
+      "origin": "Aberdeen, Washington, USA",
+      "genres": ["Grunge", "Alternative rock"],
+      "activeYears": "1987-1994",
+      "members": ["Kurt Cobain", "Krist Novoselic", "Dave Grohl"],
+      "coverImage": "https://example.com/nirvana.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+    },
+    {
+      "id": 7,
+      "name": "The Beatles",
+      "origin": "Liverpool, England",
+      "genres": ["Rock", "Pop", "Psychedelic rock"],
+      "activeYears": "1960-1970",
+      "members": ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"],
+      "coverImage": "https://example.com/the_beatles.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    {
+      "id": 8,
+      "name": "Metallica",
+      "origin": "Los Angeles, California, USA",
+      "genres": ["Heavy metal", "Thrash metal"],
+      "activeYears": "1981-present",
+      "members": ["James Hetfield", "Lars Ulrich", "Kirk Hammett", "Robert Trujillo"],
+      "coverImage": "https://example.com/metallica.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    {
+      "id": 9,
+      "name": "Foo Fighters",
+      "origin": "Seattle, Washington, USA",
+      "genres": ["Rock", "Alternative rock", "Post-grunge"],
+      "activeYears": "1994-present",
+      "members": ["Dave Grohl", "Nate Mendel", "Pat Smear", "Taylor Hawkins", "Chris Shiflett", "Rami Jaffee"],
+      "coverImage": "https://example.com/foo_fighters.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+    },
+    {
+      "id": 10,
+      "name": "The Who",
+      "origin": "London, England",
+      "genres": ["Rock", "Hard rock", "Power pop"],
+      "activeYears": "1964-present",
+      "members": ["Roger Daltrey", "Pete Townshend", "John Entwistle", "Keith Moon"],
+      "coverImage": "https://example.com/the_who.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+    },
+    {
+      "id": 11,
+      "name": "Guns N' Roses",
+      "origin": "Los Angeles, California, USA",
+      "genres": ["Hard rock", "Heavy metal"],
+      "activeYears": "1985-present",
+      "members": ["Axl Rose", "Slash", "Duff McKagan", "Steven Adler", "Izzy Stradlin"],
+      "coverImage": "https://example.com/guns_n_roses.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+    },
+    {
+      "id": 12,
+      "name": "Aerosmith",
+      "origin": "Boston, Massachusetts, USA",
+      "genres": ["Hard rock", "Blues rock"],
+      "activeYears": "1970-present",
+      "members": ["Steven Tyler", "Joe Perry", "Brad Whitford", "Tom Hamilton", "Joey Kramer"],
+      "coverImage": "https://example.com/aerosmith.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+    },
+    {
+      "id": 13,
+      "name": "U2",
+      "origin": "Dublin, Ireland",
+      "genres": ["Rock", "Alternative rock", "Post-punk"],
+      "activeYears": "1976-present",
+      "members": ["Bono", "The Edge", "Adam Clayton", "Larry Mullen Jr."],
+      "coverImage": "https://example.com/u2.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+    },
+    {
+      "id": 14,
+      "name": "Red Hot Chili Peppers",
+      "origin": "Los Angeles, California, USA",
+      "genres": ["Rock", "Funk rock", "Alternative rock"],
+      "activeYears": "1983-present",
+      "members": ["Anthony Kiedis", "Flea", "Chad Smith", "John Frusciante"],
+      "coverImage": "https://example.com/red_hot_chili_peppers.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+    },
+    {
+      "id": 15,
+      "name": "Black Sabbath",
+      "origin": "Birmingham, England",
+      "genres": ["Heavy metal", "Hard rock"],
+      "activeYears": "1968-2017",
+      "members": ["Ozzy Osbourne", "Tony Iommi", "Geezer Butler", "Bill Ward"],
+      "coverImage": "https://example.com/black_sabbath.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+    },
+    {
+      "id": 16,
+      "name": "Pearl Jam",
+      "origin": "Seattle, Washington, USA",
+      "genres": ["Rock", "Grunge", "Alternative rock"],
+      "activeYears": "1990-present",
+      "members": ["Eddie Vedder", "Stone Gossard", "Jeff Ament", "Mike McCready", "Matt Cameron"],
+      "coverImage": "https://example.com/pearl_jam.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+    },
+    {
+      "id": 17,
+      "name": "R.E.M.",
+      "origin": "Athens, Georgia, USA",
+      "genres": ["Rock", "Alternative rock"],
+      "activeYears": "1980-2011",
+      "members": ["Michael Stipe", "Peter Buck", "Mike Mills", "Bill Berry"],
+      "coverImage": "https://example.com/rem.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+    },
+    {
+      "id": 18,
+      "name": "The Clash",
+      "origin": "London, England",
+      "genres": ["Punk rock", "New wave"],
+      "activeYears": "1976-1986",
+      "members": ["Joe Strummer", "Mick Jones", "Paul Simonon", "Topper Headon"],
+      "coverImage": "https://example.com/the_clash.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+    },
+    {
+      "id": 19,
+      "name": "Green Day",
+      "origin": "East Bay, California, USA",
+      "genres": ["Punk rock", "Pop punk", "Alternative rock"],
+      "activeYears": "1987-present",
+      "members": ["Billie Joe Armstrong", "Mike Dirnt", "Tré Cool"],
+      "coverImage": "https://example.com/green_day.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+    },
+    {
+      "id": 20,
+      "name": "The Doors",
+      "origin": "Los Angeles, California, USA",
+      "genres": ["Rock", "Psychedelic rock", "Blues rock"],
+      "activeYears": "1965-1973",
+      "members": ["Jim Morrison", "Ray Manzarek", "Robby Krieger", "John Densmore"],
+      "coverImage": "https://example.com/the_doors.jpg",
+      "spotifyLink": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+    }
+  ]
+}
