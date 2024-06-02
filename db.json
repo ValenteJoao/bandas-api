@@ -7,7 +7,7 @@
       "genres": ["Hard rock", "Blues rock", "Folk rock"],
       "activeYears": "1968",
       "members": ["Robert Plant", "Jimmy Page", "John Paul Jones", "John Bonham"],
-      "coverImage": "https://example.com/led_zeppelin.jpg",
+      "coverImage": "https://raw.githubusercontent.com/ValenteJoao/bandas-api/main/covers-band/Led_Zeppelin.png?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
       "topSong": "Stairway to Heaven"
     },
@@ -18,7 +18,7 @@
       "genres": ["Progressive rock", "Psychedelic rock", "Art rock"],
       "activeYears": "1965",
       "members": ["Roger Waters", "David Gilmour", "Nick Mason", "Richard Wright", "Syd Barrett"],
-      "coverImage": "https://example.com/pink_floyd.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/Pink-Floyd.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9",
       "topSong": "Wish You Were Here"
     },
@@ -29,7 +29,7 @@
       "genres": ["Rock", "Blues", "Rock and roll"],
       "activeYears": "1962",
       "members": ["Mick Jagger", "Keith Richards", "Charlie Watts", "Ronnie Wood"],
-      "coverImage": "https://example.com/the_rolling_stones.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/The-Rolling-Stones.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe",
       "topSong": "Paint It, Black"
     },
@@ -40,7 +40,7 @@
       "genres": ["Rock", "Hard rock", "Glam rock"],
       "activeYears": "1970",
       "members": ["Freddie Mercury", "Brian May", "Roger Taylor", "John Deacon"],
-      "coverImage": "https://example.com/queen.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/Queen.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d",
       "topSong": "Bohemian Rhapsody"
     },
@@ -51,7 +51,7 @@
       "genres": ["Hard rock", "Blues rock", "Rock and roll"],
       "activeYears": "1973",
       "members": ["Angus Young", "Malcolm Young", "Brian Johnson", "Phil Rudd", "Cliff Williams", "Bon Scott"],
-      "coverImage": "https://example.com/acdc.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/AC-DC.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un",
       "topSong": "Back In Black"
     },
@@ -62,7 +62,7 @@
       "genres": ["Grunge", "Alternative rock"],
       "activeYears": "1987",
       "members": ["Kurt Cobain", "Krist Novoselic", "Dave Grohl"],
-      "coverImage": "https://example.com/nirvana.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/Nirvana.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh",
       "topSong": "Smells Like Teen Spirit"
     },
@@ -73,7 +73,7 @@
       "genres": ["Rock", "Pop", "Psychedelic rock"],
       "activeYears": "1960",
       "members": ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"],
-      "coverImage": "https://example.com/the_beatles.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/Beatles.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
       "topSong": "Hey Jude"
     },
@@ -84,7 +84,7 @@
       "genres": ["Heavy metal", "Thrash metal"],
       "activeYears": "1981",
       "members": ["James Hetfield", "Lars Ulrich", "Kirk Hammett", "Robert Trujillo"],
-      "coverImage": "https://example.com/metallica.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/metallca.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
       "topSong": "Enter Sandman"
     },
@@ -95,7 +95,7 @@
       "genres": ["Rock", "Alternative rock", "Post-grunge"],
       "activeYears": "1994",
       "members": ["Dave Grohl", "Nate Mendel", "Pat Smear", "Taylor Hawkins", "Chris Shiflett", "Rami Jaffee"],
-      "coverImage": "https://example.com/foo_fighters.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/Foo%20Fighters.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD",
       "topSong": "Everlong"
     },
@@ -106,7 +106,7 @@
       "genres": ["Rock", "Hard rock", "Power pop"],
       "activeYears": "1964",
       "members": ["Roger Daltrey", "Pete Townshend", "John Entwistle", "Keith Moon"],
-      "coverImage": "https://example.com/the_who.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/WHO.jpeg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w",
       "topSong": "Baba O'Riley"
     },
@@ -117,7 +117,7 @@
       "genres": ["Hard rock", "Heavy metal"],
       "activeYears": "1985",
       "members": ["Axl Rose", "Slash", "Duff McKagan", "Steven Adler", "Izzy Stradlin"],
-      "coverImage": "https://example.com/guns_n_roses.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/guns-n-roses.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC",
       "topSong": "Sweet Child O' Mine"
     },
@@ -128,7 +128,7 @@
       "genres": ["Hard rock", "Blues rock"],
       "activeYears": "1970",
       "members": ["Steven Tyler", "Joe Perry", "Brad Whitford", "Tom Hamilton", "Joey Kramer"],
-      "coverImage": "https://example.com/aerosmith.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/AeroSmith.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH",
       "topSong": "Dream On"
     },
@@ -139,7 +139,7 @@
       "genres": ["Rock", "Alternative rock", "Post-punk"],
       "activeYears": "1976",
       "members": ["Bono", "The Edge", "Adam Clayton", "Larry Mullen Jr."],
-      "coverImage": "https://example.com/u2.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/U2.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ",
       "topSong": "With or Without You"
     },
@@ -150,7 +150,7 @@
       "genres": ["Rock", "Funk rock", "Alternative rock"],
       "activeYears": "1983",
       "members": ["Anthony Kiedis", "Flea", "Chad Smith", "John Frusciante"],
-      "coverImage": "https://example.com/red_hot_chili_peppers.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/Red-Hot-Chili%20Peppers.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5",
       "topSong": "Californication"
     },
@@ -161,7 +161,7 @@
       "genres": ["Heavy metal", "Hard rock"],
       "activeYears": "1968",
       "members": ["Ozzy Osbourne", "Tony Iommi", "Geezer Butler", "Bill Ward"],
-      "coverImage": "https://example.com/black_sabbath.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/Black-Sabbath.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ",
       "topSong": "Paranoid"
     },
@@ -172,7 +172,7 @@
       "genres": ["Rock", "Grunge", "Alternative rock"],
       "activeYears": "1990",
       "members": ["Eddie Vedder", "Stone Gossard", "Jeff Ament", "Mike McCready", "Matt Cameron"],
-      "coverImage": "https://example.com/pearl_jam.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/Pearl-Jam.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56",
       "topSong": "Alive"
     },
@@ -183,7 +183,7 @@
       "genres": ["Heavy metal", "Nu metal", "Alternative metal"],
       "activeYears": "1995",
       "members": ["Corey Taylor", "Shawn Crahan", "Jim Root", "Mick Thomson", "Sid Wilson", "Craig Jones", "Jay Weinberg", "Alessandro Venturella"],
-      "coverImage": "https://example.com/slipknot.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/Spliknot.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8",
       "topSong": "Duality"
     },
@@ -194,7 +194,7 @@
       "genres": ["Punk rock", "New wave"],
       "activeYears": "1976",
       "members": ["Joe Strummer", "Mick Jones", "Paul Simonon", "Topper Headon"],
-      "coverImage": "https://example.com/the_clash.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/clash.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS",
       "topSong": "Should I Stay or Should I Go"
     },
@@ -205,7 +205,7 @@
       "genres": ["Punk rock", "Pop punk", "Alternative rock"],
       "activeYears": "1987",
       "members": ["Billie Joe Armstrong", "Mike Dirnt", "Tré Cool"],
-      "coverImage": "https://example.com/green_day.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/green-day.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY",
       "topSong": "Basket Case"
     },
@@ -216,7 +216,7 @@
       "genres": ["Rock", "Psychedelic rock", "Blues rock"],
       "activeYears": "1965",
       "members": ["Jim Morrison", "Ray Manzarek", "Robby Krieger", "John Densmore"],
-      "coverImage": "https://example.com/the_doors.jpg",
+      "coverImage": "https://github.com/ValenteJoao/bandas-api/blob/main/covers-band/doors.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt",
       "topSong": "Riders on the Storm"
     }
