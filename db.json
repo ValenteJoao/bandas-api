@@ -139,7 +139,7 @@
       "genres": ["Rock", "Alternative rock", "Post-punk"],
       "activeYears": "1976",
       "members": ["Bono", "The Edge", "Adam Clayton", "Larry Mullen Jr."],
-      "coverImage": "https://raw.githubusercontent.com/ValenteJoao/bandas-api/main/covers-band/covers-band/U2.jpg?raw=true",
+      "coverImage": "https://raw.githubusercontent.com/ValenteJoao/bandas-api/main/covers-band/U2.jpg",
       "spotifyLink": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ",
       "topSong": "With or Without You"
     },
