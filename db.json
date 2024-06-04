@@ -175,50 +175,6 @@
       "coverImage": "https://raw.githubusercontent.com/ValenteJoao/bandas-api/main/covers-band/Pearl-Jam.jpg?raw=true",
       "spotifyLink": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56",
       "topSong": "Alive"
-    },
-    {
-      "id": 17,
-      "name": "Slipknot",
-      "origin": "Des Moines, Iowa, USA",
-      "genres": ["Heavy metal", "Nu metal", "Alternative metal"],
-      "activeYears": "1995",
-      "members": ["Corey Taylor", "Shawn Crahan", "Jim Root", "Mick Thomson", "Sid Wilson", "Craig Jones", "Jay Weinberg", "Alessandro Venturella"],
-      "coverImage": "https://raw.githubusercontent.com/ValenteJoao/bandas-api/main/covers-band/Spliknot.jpg?raw=true",
-      "spotifyLink": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8",
-      "topSong": "Duality"
-    },
-    {
-      "id": 18,
-      "name": "The Clash",
-      "origin": "London, England",
-      "genres": ["Punk rock", "New wave"],
-      "activeYears": "1976",
-      "members": ["Joe Strummer", "Mick Jones", "Paul Simonon", "Topper Headon"],
-      "coverImage": "https://raw.githubusercontent.com/ValenteJoao/bandas-api/main/covers-band/clash.jpg?raw=true",
-      "spotifyLink": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS",
-      "topSong": "Should I Stay or Should I Go"
-    },
-    {
-      "id": 19,
-      "name": "Green Day",
-      "origin": "East Bay, California, USA",
-      "genres": ["Punk rock", "Pop punk", "Alternative rock"],
-      "activeYears": "1987",
-      "members": ["Billie Joe Armstrong", "Mike Dirnt", "Tré Cool"],
-      "coverImage": "https://raw.githubusercontent.com/ValenteJoao/bandas-api/main/covers-band/green-day.jpg?raw=true",
-      "spotifyLink": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY",
-      "topSong": "Basket Case"
-    },
-    {
-      "id": 20,
-      "name": "The Doors",
-      "origin": "Los Angeles, California, USA",
-      "genres": ["Rock", "Psychedelic rock", "Blues rock"],
-      "activeYears": "1965",
-      "members": ["Jim Morrison", "Ray Manzarek", "Robby Krieger", "John Densmore"],
-      "coverImage": "https://raw.githubusercontent.com/ValenteJoao/bandas-api/main/covers-band/doors.jpg?raw=true",
-      "spotifyLink": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt",
-      "topSong": "Riders on the Storm"
     }
   ]
 }
